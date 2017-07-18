@@ -1,0 +1,20 @@
+[
+  {
+    "productId": "1",
+    "productType": "1",
+    "productDesc": "description",
+    "familyId": "id family"
+  },
+  {
+    "productId": "2",
+    "productType": "2",
+    "productDesc": "description",
+    "familyId": "id family"
+  },
+  {
+    "productId": "2",
+    "productType": "2",
+    "productDesc": "description",
+    "familyId": "id family"
+  }
+]

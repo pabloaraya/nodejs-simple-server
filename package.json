@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-simple-server",
+  "description": "Simple server nodejs",
+  "version": "1.0.0",
+  "license": "ISC",
+  "main": "app.js",
+  "scripts": {
+    "start": "NODE_PATH=$NODE_PATH:./src node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "4.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pabloaraya/nodejs-simple-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "server",
+    "simple"
+  ],
+  "author": "Pablo Araya",
+  "bugs": {
+    "url": "https://github.com/pabloaraya/nodejs-simple-server/issues"
+  },
+  "homepage": "https://github.com/pabloaraya/nodejs-simple-server"
+}
