@@ -21,3 +21,15 @@ npm install
 ```
 npm start
 ```
+
+## For Android developers
+### Add on your local.properties file
+```
+baseUrl=yourip
+```
+
+## For iOS developers
+### Add on your info.plist file
+```
+baseUrl=yourip
+```
