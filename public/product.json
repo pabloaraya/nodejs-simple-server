@@ -1,6 +1,13 @@
 {
-  "productId": "1",
-  "productType": "1",
-  "productDesc": "description",
-  "familyId": "id family"
+  "accountId": "970544429",
+  "currencyCode": "CLP",
+  "product": {
+    "productId": "C021",
+    "productType": "CC01",
+    "productDesc": "PLAN MI BANCA",
+    "familyId": "CTACTE"
+  },
+  "availablebalanceAmount": "$-1.652.192",
+  "countablebalanceAmount": "$0",
+  "opcionalbalanceAmount": "$0"
 }
